@@ -1,2 +1,2 @@
 # grafana-setup
-script to setup Grafana and other required programs on Ubuntu
+Run this script on Ubuntu to set up Grafana and all the required programs in seperate docker containers 
